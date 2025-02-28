@@ -1,6 +1,6 @@
 # Walmart Data Analytics Project
 
-# Project Overview
+## Project Overview
 
 TThe Walmart Data Analytics Project aimed to simulate real-world decision-making challenges in a large retail store like Walmart. The goal was to analyze customer buying patterns, optimize store layouts, and improve cross-selling strategies using SQL-based analytics. The project involved designing a data warehouse, executing advanced SQL queries, and deriving business insights to support strategic decision-making.
 
