@@ -12,19 +12,19 @@ Business Problem:Walmart deals with millions of transactions daily. To extract m
 
 **Solution:**
 
-Designed a data warehouse to organize Walmart's transactional data.
+- Designed a data warehouse to organize Walmart's transactional data.
 
-Created a central fact table to capture every transaction in the store.
+- Created a central fact table to capture every transaction in the store.
 
-Developed at least five supporting dimensions to provide meaningful context about products, customers, time periods, and other key attributes.
+- Developed at least five supporting dimensions to provide meaningful context about products, customers, time periods, and other key attributes.
 
 **Business Impact:**
 
-What are the top-selling products in each category?
+- What are the top-selling products in each category?
 
-How do purchasing patterns change based on time or customer demographics?
+- How do purchasing patterns change based on time or customer demographics?
 
-Which types of promotions result in the highest sales?
+- Which types of promotions result in the highest sales?
 
 ## Task 2: Identify Frequently Bought Together Items
 
@@ -33,19 +33,19 @@ Store managers noticed that customers often buy certain items together but lacke
 
 **Solution:**
 
-Wrote SQL queries to identify frequently bought-together products.
+- Wrote SQL queries to identify frequently bought-together products.
 
-Used window functions to analyze transaction patterns and derive meaningful insights.
+- Used window functions to analyze transaction patterns and derive meaningful insights.
 
-Ensured that results excluded similar product variations (e.g., different types of milk counted as one).
+- Ensured that results excluded similar product variations (e.g., different types of milk counted as one).
 
 **Business Impact:**
 
-Reorganizing the store layout based on common product pairs.
+- Reorganizing the store layout based on common product pairs.
 
-Introducing bundled promotions to encourage larger purchases.
+- Introducing bundled promotions to encourage larger purchases.
 
-Optimizing inventory management to ensure high-demand products remain stocked.
+- Optimizing inventory management to ensure high-demand products remain stocked.
 
 ## Task 3: Present Business Insights
 
@@ -53,17 +53,17 @@ Business Problem:After identifying frequently bought-together products, the find
 
 **Solution:**
 
-Summarized findings into a business report for Walmart executives.
+- Summarized findings into a business report for Walmart executives.
 
-Provided recommendations on store layout adjustments, promotional strategies, and inventory management.
+- Provided recommendations on store layout adjustments, promotional strategies, and inventory management.
 
-Justified how these changes could benefit Walmart’s bottom line.
+- Justified how these changes could benefit Walmart’s bottom line.
 
 **Business Impact:**
 
-Example insight: "Milk and Cornflakes are the most frequently purchased items together in the Grocery category, appearing in transactions 10 times more often than any other combination."
+- Example insight: "Milk and Cornflakes are the most frequently purchased items together in the Grocery category, appearing in transactions 10 times more often than any other combination."
 
-Recommended placing these products closer together and offering bundle promotions, potentially leading to a 15% increase in cross-category sales.
+- Recommended placing these products closer together and offering bundle promotions, potentially leading to a 15% increase in cross-category sales.
 
 ## Team Contributions
 
