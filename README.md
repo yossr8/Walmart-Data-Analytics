@@ -6,7 +6,7 @@ The Walmart Data Analytics Project aimed to simulate real-world decision-making 
 
 ## Tasks and Responsibilities
 
-### Task 1: Design a Data Warehouse** 
+## Task 1: Design a Data Warehouse 
 
 Business Problem:Walmart deals with millions of transactions daily. To extract meaningful insights, a structured way to store and retrieve data was required. The CEO wanted to understand which products are most popular, which customer demographics spend the most, and how sales vary over time.
 
@@ -26,7 +26,7 @@ How do purchasing patterns change based on time or customer demographics?
 
 Which types of promotions result in the highest sales?
 
-### Task 2: Identify Frequently Bought Together Items
+## Task 2: Identify Frequently Bought Together Items
 
 **Business Problem:**
 Store managers noticed that customers often buy certain items together but lacked clear data on which combinations were the most frequent.
@@ -47,7 +47,7 @@ Introducing bundled promotions to encourage larger purchases.
 
 Optimizing inventory management to ensure high-demand products remain stocked.
 
-### Task 3: Present Business Insights
+## Task 3: Present Business Insights
 
 Business Problem:After identifying frequently bought-together products, the findings had to be presented to Walmart’s leadership in a clear and actionable manner.
 
